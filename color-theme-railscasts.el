@@ -9,7 +9,7 @@
 ;; Keywords: railscasts color theme
 ;; URL: https://github.com/olegshaldybin/color-theme-railscasts
 ;; Version: 0.0.2
-;; Package-Requires: ((color-theme "6.6.1"))
+;; Package-Requires: ((color-theme "6.5.5"))
 
 ;; This file is NOT a part of GNU Emacs.
 
